@@ -11,3 +11,8 @@ Game Design Documents
 ### Gameplays
 
 - [Patapon](https://www.youtube.com/watch?v=lp173Si-XZM)
+
+
+### Interviews
+
+- [behind-the-classics-legacy-of-kain-soul-reaver](http://blog.eu.playstation.com/2012/10/12/behind-the-classics-legacy-of-kain-soul-reaver/)
