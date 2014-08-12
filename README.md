@@ -11,6 +11,11 @@ Game Design Documents
 ### Gameplays
 
 - [Patapon](https://www.youtube.com/watch?v=lp173Si-XZM)
+ 
+
+### CSS Animations
+
+- [A beginners introduction to css animation](http://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 
 
 ### Interviews
