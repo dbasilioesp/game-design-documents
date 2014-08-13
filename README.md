@@ -7,6 +7,7 @@ Game Design Documents
 - [Level design lesson: to the right, hold on tight](http://auntiepixelante.com/?p=465)  
 - [Game Star Mechanic](http://gamestarmechanic.com/)
 - [11-things-i-learned-from-dream-worlds](http://www.worldofleveldesign.com/categories/game_environments_design/11-things-i-learned-from-dream-worlds.php)
+- [Battle of Brothers: Bit About Design Documents](http://battleofbrothers.com/sirryan/a-bit-about-design-documents)
 
 ### Gameplays
 
