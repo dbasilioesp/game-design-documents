@@ -6,7 +6,7 @@ Game Design Documents
 - [All Games Are About Death](http://www.whatgamesare.com/2011/05/all-games-are-about-death-fundamentals.html)
 - [Level design lesson: to the right, hold on tight](http://auntiepixelante.com/?p=465)  
 - [Game Star Mechanic](http://gamestarmechanic.com/)
-- [11-things-i-learned-from-dream-worlds](http://www.worldofleveldesign.com/categories/game_environments_design/11-things-i-learned-from-dream-worlds.php)
+- [11 Things I Learned From Dream Worlds](http://www.worldofleveldesign.com/categories/game_environments_design/11-things-i-learned-from-dream-worlds.php)
 - [Battle of Brothers: Bit About Design Documents](http://battleofbrothers.com/sirryan/a-bit-about-design-documents)
 
 ### Gameplays
