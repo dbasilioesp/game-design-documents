@@ -21,5 +21,5 @@ Game Design Documents
 
 ### Interviews
 
-- [behind-the-classics-legacy-of-kain-soul-reaver](http://blog.eu.playstation.com/2012/10/12/behind-the-classics-legacy-of-kain-soul-reaver/)
+- [Amy Hennig: Behind the classics legacy of kain soul reaver](http://blog.eu.playstation.com/2012/10/12/behind-the-classics-legacy-of-kain-soul-reaver/)
 - [Darren Korb: Transistor Sound](http://categoryvideogames.podbean.com/e/an-interview-with-darren-korb-transistor/#.U-u6K-Efcrk.twitter)
