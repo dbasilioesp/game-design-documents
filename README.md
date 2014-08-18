@@ -12,7 +12,10 @@ Game Design Documents
 ### Gameplays
 
 - [Patapon](https://www.youtube.com/watch?v=lp173Si-XZM)
- 
+
+### Art Concepts
+
+- White Night(http://osome-studio.com/some-rough/)
 
 ### CSS Animations
 
