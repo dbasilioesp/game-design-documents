@@ -15,7 +15,7 @@ Game Design Documents
 
 ### Art Concepts
 
-- White Night(http://osome-studio.com/some-rough/)
+- [White Night](http://osome-studio.com/some-rough/)
 
 ### CSS Animations
 
