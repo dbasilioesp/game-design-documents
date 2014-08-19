@@ -18,6 +18,11 @@ Game Design Documents
 - [White Night](http://osome-studio.com/some-rough/)
 - [Scott Pellico](http://appylon.weebly.com/)
 
+### Assets
+
+- [Open Game Art](http://opengameart.org/users/kenney)
+- [Kenney Donation](http://kenney.itch.io/kenney-donation)
+
 ### CSS Animations
 
 - [A beginners introduction to css animation](http://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
