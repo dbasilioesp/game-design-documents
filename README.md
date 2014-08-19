@@ -16,6 +16,7 @@ Game Design Documents
 ### Art Concepts
 
 - [White Night](http://osome-studio.com/some-rough/)
+- [Scott Pellico](http://appylon.weebly.com/)
 
 ### CSS Animations
 
