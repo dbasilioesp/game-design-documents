@@ -26,6 +26,7 @@ Game Design Documents
 ### CSS Animations
 
 - [A beginners introduction to css animation](http://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
+- [Mr Doob](http://mrdoob.com/)
 
 
 ### Interviews
