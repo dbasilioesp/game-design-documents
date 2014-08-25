@@ -27,7 +27,7 @@ Game Design Documents
 
 - [jsfxr](http://github.grumdrig.com/jsfxr/)
 
-### Phisycs
+### Physics
 
 - [Game Feel Tips: Speed, Gravity and Friction](http://gamasutra.com/blogs/MarkVenturelli/20140821/223866/Game_Feel_Tips_II_Speed_Gravity_Friction.php)
 
