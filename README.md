@@ -19,6 +19,8 @@ http://www.gamasutra.com/view/news/224101/Video_Building_the_AI_for_Hearthstone.
 
 - [Patapon](https://www.youtube.com/watch?v=lp173Si-XZM)
 - [Depression Quest](http://www.depressionquest.com/)
+- [SpacePi](http://2012.js13kgames.com/entries/spacepi)
+- [Radius Raid](http://2013.js13kgames.com/entries/radius-raid)
 
 ### Art Concepts
 
