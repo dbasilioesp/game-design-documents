@@ -9,6 +9,7 @@ Game Design Documents
 - [11 Things I Learned From Dream Worlds](http://www.worldofleveldesign.com/categories/game_environments_design/11-things-i-learned-from-dream-worlds.php)
 - [Battle of Brothers: Bit About Design Documents](http://battleofbrothers.com/sirryan/a-bit-about-design-documents)
 - [Making One Game a Month](http://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695)
+- [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
 
 http://www.gamasutra.com/view/news/224053/This_Week_in_Video_Game_Criticism_From_Ageism_to_the_Downfall_of_Neopets.php
 
