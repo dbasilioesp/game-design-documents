@@ -11,7 +11,6 @@ Game Design Documents
 - [Making One Game a Month](http://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695)
 - [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
 
-http://www.gamasutra.com/view/news/224053/This_Week_in_Video_Game_Criticism_From_Ageism_to_the_Downfall_of_Neopets.php
 
 http://www.gamasutra.com/view/news/224101/Video_Building_the_AI_for_Hearthstone.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GamasutraNews+%28Gamasutra+News%29
 
@@ -27,6 +26,7 @@ http://www.gamasutra.com/view/news/224101/Video_Building_the_AI_for_Hearthstone.
 
 - [White Night](http://osome-studio.com/some-rough/)
 - [Scott Pellico](http://appylon.weebly.com/)
+- [Shoot photos to make better cheaper art](http://gamasutra.com/blogs/JunxueLi/20140904/224837/2D_games_Shoot_photos_to_make_better__cheaper_art_Part_1.php)
 
 ### Assets
 
