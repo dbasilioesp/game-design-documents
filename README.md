@@ -10,7 +10,7 @@ Game Design Documents
 - [Battle of Brothers: Bit About Design Documents](http://battleofbrothers.com/sirryan/a-bit-about-design-documents)
 - [Making One Game a Month](http://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695)
 - [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
-
+- [Branching Conversation Systems and the Working Writer Part 1 Introduction](http://gamasutra.com/blogs/AlexanderFreed/20140902/224609/Branching_Conversation_Systems_and_the_Working_Writer_Part_1_Introduction.php)
 
 http://www.gamasutra.com/view/news/224101/Video_Building_the_AI_for_Hearthstone.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GamasutraNews+%28Gamasutra+News%29
 
