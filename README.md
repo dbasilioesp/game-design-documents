@@ -13,8 +13,6 @@ Game Design Documents
 - [Branching Conversation Systems and the Working Writer Part 1 Introduction](http://gamasutra.com/blogs/AlexanderFreed/20140902/224609/Branching_Conversation_Systems_and_the_Working_Writer_Part_1_Introduction.php)
 - [World of Level Design](http://www.worldofleveldesign.com/)
 
-http://www.gamasutra.com/view/news/224101/Video_Building_the_AI_for_Hearthstone.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GamasutraNews+%28Gamasutra+News%29
-
 
 ### Gameplays
 
@@ -22,6 +20,7 @@ http://www.gamasutra.com/view/news/224101/Video_Building_the_AI_for_Hearthstone.
 - [Depression Quest](http://www.depressionquest.com/)
 - [SpacePi](http://2012.js13kgames.com/entries/spacepi)
 - [Radius Raid](http://2013.js13kgames.com/entries/radius-raid)
+- [Hack n Slash](http://store.steampowered.com/app/246070/)
 
 ### Art Concepts
 
