@@ -12,6 +12,7 @@ Game Design Documents
 - [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
 - [Branching Conversation Systems and the Working Writer Part 1 Introduction](http://gamasutra.com/blogs/AlexanderFreed/20140902/224609/Branching_Conversation_Systems_and_the_Working_Writer_Part_1_Introduction.php)
 - [World of Level Design](http://www.worldofleveldesign.com/)
+- [Game Design Deep Dive: The digging mechanic in SteamWorld Dig](http://www.gamasutra.com/view/news/225257/Game_Design_Deep_Dive_The_digging_mechanic_in_SteamWorld_Dig.php)
 
 
 ### Gameplays
