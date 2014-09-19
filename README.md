@@ -22,6 +22,7 @@ Game Design Documents
 - [SpacePi](http://2012.js13kgames.com/entries/spacepi)
 - [Radius Raid](http://2013.js13kgames.com/entries/radius-raid)
 - [Hack n Slash](http://store.steampowered.com/app/246070/)
+- [Spider Busters](http://js13kgames.com/entries/spider-busters)
 
 ### Art Concepts
 
