@@ -40,6 +40,7 @@ Game Design Documents
 - [jsfxr](http://github.grumdrig.com/jsfxr/)
 - [Conheça como são feitos os efeitos sonoros de The Evil Within](http://www.gamegen.com.br/playstation3/conheca-como-sao-feitos-os-efeitos-sonoros-de-the-evil-within/)
 - [Indie Game Composer What Affects Cost](http://www.chrislines.net/indie-game-composer-what-affects-cost/)
+- [Game Composer Contracts Structure](http://www.chrislines.net/game-composer-contracts-structure/)
 
 ### Physics
 
