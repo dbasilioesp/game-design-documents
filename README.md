@@ -46,9 +46,10 @@ Game Design Documents
 
 - [Game Feel Tips: Speed, Gravity and Friction](http://gamasutra.com/blogs/MarkVenturelli/20140821/223866/Game_Feel_Tips_II_Speed_Gravity_Friction.php)
 
-### CSS Animations
+### Web Animations
 
 - [A beginners introduction to css animation](http://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
+- [Creating a collection of css3 animated pre loaders](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978)
 - [Mr Doob](http://mrdoob.com/)
 
 
