@@ -14,16 +14,6 @@ Game Design Documents
 - [World of Level Design](http://www.worldofleveldesign.com/)
 - [Game Design Deep Dive: The digging mechanic in SteamWorld Dig](http://www.gamasutra.com/view/news/225257/Game_Design_Deep_Dive_The_digging_mechanic_in_SteamWorld_Dig.php)
 
-
-### Gameplays
-
-- [Patapon](https://www.youtube.com/watch?v=lp173Si-XZM)
-- [Depression Quest](http://www.depressionquest.com/)
-- [SpacePi](http://2012.js13kgames.com/entries/spacepi)
-- [Radius Raid](http://2013.js13kgames.com/entries/radius-raid)
-- [Hack n Slash](http://store.steampowered.com/app/246070/)
-- [Spider Busters](http://js13kgames.com/entries/spider-busters)
-
 ### Art Concepts
 
 - [White Night](http://osome-studio.com/some-rough/)
@@ -45,6 +35,7 @@ Game Design Documents
 ### Physics
 
 - [Game Feel Tips: Speed, Gravity and Friction](http://gamasutra.com/blogs/MarkVenturelli/20140821/223866/Game_Feel_Tips_II_Speed_Gravity_Friction.php)
+- [Understanding Steering Behaviors Flee and Arival](http://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-flee-and-arrival--gamedev-1303)
 
 ### Web Animations
 
@@ -61,3 +52,12 @@ Game Design Documents
 ## Inteligence Artificial
 
 - [PathFindingJS](http://qiao.github.io/PathFinding.js/visual/)
+
+### Gameplays
+
+- [Patapon](https://www.youtube.com/watch?v=lp173Si-XZM)
+- [Depression Quest](http://www.depressionquest.com/)
+- [SpacePi](http://2012.js13kgames.com/entries/spacepi)
+- [Radius Raid](http://2013.js13kgames.com/entries/radius-raid)
+- [Hack n Slash](http://store.steampowered.com/app/246070/)
+- [Spider Busters](http://js13kgames.com/entries/spider-busters)
