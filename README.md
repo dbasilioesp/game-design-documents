@@ -14,6 +14,7 @@ Game Design Documents
 - [World of Level Design](http://www.worldofleveldesign.com/)
 - [Game Design Deep Dive: The digging mechanic in SteamWorld Dig](http://www.gamasutra.com/view/news/225257/Game_Design_Deep_Dive_The_digging_mechanic_in_SteamWorld_Dig.php)
 - [Game Programming Patterns Book](http://gameprogrammingpatterns.com/)
+- [Writing a GDD your team can actually use](http://www.gamasutra.com/blogs/AbbyFriesen/20141006/227048/Writing_a_GDD_your_team_can_actually_use.php)
 
 ### Art Concepts
 
