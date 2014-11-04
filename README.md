@@ -66,3 +66,7 @@ Game Design Documents
 - [Radius Raid](http://2013.js13kgames.com/entries/radius-raid)
 - [Hack n Slash](http://store.steampowered.com/app/246070/)
 - [Spider Busters](http://js13kgames.com/entries/spider-busters)
+
+### Character Creation
+
+- [Introduction to user personas](http://www.ux-lady.com/introduction-to-user-personas/)
