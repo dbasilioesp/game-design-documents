@@ -48,6 +48,7 @@ Game Design Documents
 - [A beginners introduction to css animation](http://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
 - [Creating a collection of css3 animated pre loaders](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978)
 - [Mr Doob](http://mrdoob.com/)
+- [A Triangle Everyday](http://winkervsbecks.github.io/a-triangle-everyday/)
 
 
 ### Interviews
