@@ -41,6 +41,7 @@ Game Design Documents
 
 - [Game Feel Tips: Speed, Gravity and Friction](http://gamasutra.com/blogs/MarkVenturelli/20140821/223866/Game_Feel_Tips_II_Speed_Gravity_Friction.php)
 - [Understanding Steering Behaviors Flee and Arival](http://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-flee-and-arrival--gamedev-1303)
+- [Algodoo](http://www.algodoo.com/)
 
 ### Web Animations
 
