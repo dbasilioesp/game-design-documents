@@ -24,6 +24,11 @@ Game Design Documents
 - [Shoot photos to make better cheaper art](http://gamasutra.com/blogs/JunxueLi/20140904/224837/2D_games_Shoot_photos_to_make_better__cheaper_art_Part_1.php)
 - [14 games will inspire make better color choices](http://www.spilgames.com/14-games-will-inspire-make-better-color-choices/)
 
+### Level Design
+
+- [World of Level Design](http://www.worldofleveldesign.com/)
+- http://www.thiagoklafke.com/
+
 ### Assets & 3D Models
 
 - [Open Game Art](http://opengameart.org/users/kenney)
