@@ -55,6 +55,7 @@ Game Design Documents
 - [Creating a collection of css3 animated pre loaders](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978)
 - [Mr Doob](http://mrdoob.com/)
 - [A Triangle Everyday](http://winkervsbecks.github.io/a-triangle-everyday/)
+- [lining.js](https://github.com/zmmbreeze/lining.js)
 
 
 ### Interviews
