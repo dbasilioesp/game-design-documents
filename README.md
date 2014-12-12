@@ -11,7 +11,6 @@ Game Design Documents
 - [Branching Conversation Systems and the Working Writer Part 1 Introduction](http://gamasutra.com/blogs/AlexanderFreed/20140902/224609/Branching_Conversation_Systems_and_the_Working_Writer_Part_1_Introduction.php)
 - [World of Level Design](http://www.worldofleveldesign.com/)
 - [Game Design Deep Dive: The digging mechanic in SteamWorld Dig](http://www.gamasutra.com/view/news/225257/Game_Design_Deep_Dive_The_digging_mechanic_in_SteamWorld_Dig.php)
-
 - [What Does a Game Value](http://gamasutra.com/blogs/ChristopherGile/20141028/228732/What_does_a_game_value.php)
 - [All Games Are About Death](http://www.whatgamesare.com/2011/05/all-games-are-about-death-fundamentals.html)
 
