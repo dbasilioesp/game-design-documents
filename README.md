@@ -82,3 +82,7 @@ Game Design Documents
 ### Character Creation
 
 - [Introduction to user personas](http://www.ux-lady.com/introduction-to-user-personas/)
+
+### Programming
+
+- [Coding Game](http://www.codingame.com/)
