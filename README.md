@@ -14,6 +14,19 @@ Game Design Documents
 - [What Does a Game Value](http://gamasutra.com/blogs/ChristopherGile/20141028/228732/What_does_a_game_value.php)
 - [All Games Are About Death](http://www.whatgamesare.com/2011/05/all-games-are-about-death-fundamentals.html)
 
+### Interviews
+
+- [Amy Hennig: Behind the classics legacy of kain soul reaver](http://blog.eu.playstation.com/2012/10/12/behind-the-classics-legacy-of-kain-soul-reaver/)
+- [Darren Korb: Transistor Sound](http://categoryvideogames.podbean.com/e/an-interview-with-darren-korb-transistor/#.U-u6K-Efcrk.twitter)
+- [Quantum - Eric Zimmerman](http://whowhatwhycast.tumblr.com/post/98948890244/s9-e01-a-recipe-for-a-distilled-4x-experience)
+
+### Programming
+
+- [Game Programming Patterns Book](http://gameprogrammingpatterns.com/)
+- [Coding Game](http://www.codingame.com/)
+- [WebGL Workshop](https://github.com/stackgl/webgl-workshop)
+- [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
+
 ### Design Document
 
 - [Writing a GDD your team can actually use](http://www.gamasutra.com/blogs/AbbyFriesen/20141006/227048/Writing_a_GDD_your_team_can_actually_use.php)
@@ -32,12 +45,6 @@ Game Design Documents
 - [World of Level Design](http://www.worldofleveldesign.com/)
 - http://www.thiagoklafke.com/
 
-### Assets & 3D Models
-
-- [Open Game Art](http://opengameart.org/users/kenney)
-- [Kenney Donation](http://kenney.itch.io/kenney-donation)
-- [Yobi3D](http://www.yobi3d.com/)
-
 ### Audio
 
 - [jsfxr](http://github.grumdrig.com/jsfxr/)
@@ -53,6 +60,12 @@ Game Design Documents
 - [Algodoo](http://www.algodoo.com/)
 - [iamralpht physics simulation](http://iamralpht.github.io/physics/)
 
+### Assets & 3D Models
+
+- [Open Game Art](http://opengameart.org/users/kenney)
+- [Kenney Donation](http://kenney.itch.io/kenney-donation)
+- [Yobi3D](http://www.yobi3d.com/)
+
 ### Web Animations
 
 - [A beginners introduction to css animation](http://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
@@ -61,13 +74,6 @@ Game Design Documents
 - [A Triangle Everyday](http://winkervsbecks.github.io/a-triangle-everyday/)
 - [lining.js](https://github.com/zmmbreeze/lining.js)
 
-
-### Interviews
-
-- [Amy Hennig: Behind the classics legacy of kain soul reaver](http://blog.eu.playstation.com/2012/10/12/behind-the-classics-legacy-of-kain-soul-reaver/)
-- [Darren Korb: Transistor Sound](http://categoryvideogames.podbean.com/e/an-interview-with-darren-korb-transistor/#.U-u6K-Efcrk.twitter)
-- [Quantum - Eric Zimmerman](http://whowhatwhycast.tumblr.com/post/98948890244/s9-e01-a-recipe-for-a-distilled-4x-experience)
-
 ### Inteligence Artificial
 
 - [PathFindingJS](http://qiao.github.io/PathFinding.js/visual/)
@@ -75,10 +81,3 @@ Game Design Documents
 ### Character Creation
 
 - [Introduction to user personas](http://www.ux-lady.com/introduction-to-user-personas/)
-
-### Programming
-
-- [Game Programming Patterns Book](http://gameprogrammingpatterns.com/)
-- [Coding Game](http://www.codingame.com/)
-- [WebGL Workshop](https://github.com/stackgl/webgl-workshop)
-- [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
