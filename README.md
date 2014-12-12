@@ -1,21 +1,24 @@
 Game Design Documents
 =====================
 
+### Game Design Thoughts
 
 - The Seven Constants Of Game Design: [Part 1](http://techcrunch.com/2014/07/20/constants-of-game-design-1/), [Part 2](http://techcrunch.com/2014/07/27/constants-of-game-design-2/), [Part 3](http://techcrunch.com/2014/08/03/constants-of-game-design-3/)  
-- [All Games Are About Death](http://www.whatgamesare.com/2011/05/all-games-are-about-death-fundamentals.html)
 - [Level design lesson: to the right, hold on tight](http://auntiepixelante.com/?p=465)  
 - [Game Star Mechanic](http://gamestarmechanic.com/)
 - [11 Things I Learned From Dream Worlds](http://www.worldofleveldesign.com/categories/game_environments_design/11-things-i-learned-from-dream-worlds.php)
-- [Battle of Brothers: Bit About Design Documents](http://battleofbrothers.com/sirryan/a-bit-about-design-documents)
 - [Making One Game a Month](http://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695)
-- [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
 - [Branching Conversation Systems and the Working Writer Part 1 Introduction](http://gamasutra.com/blogs/AlexanderFreed/20140902/224609/Branching_Conversation_Systems_and_the_Working_Writer_Part_1_Introduction.php)
 - [World of Level Design](http://www.worldofleveldesign.com/)
 - [Game Design Deep Dive: The digging mechanic in SteamWorld Dig](http://www.gamasutra.com/view/news/225257/Game_Design_Deep_Dive_The_digging_mechanic_in_SteamWorld_Dig.php)
-- [Game Programming Patterns Book](http://gameprogrammingpatterns.com/)
+
+- [What Does a Game Value](http://gamasutra.com/blogs/ChristopherGile/20141028/228732/What_does_a_game_value.php)
+- [All Games Are About Death](http://www.whatgamesare.com/2011/05/all-games-are-about-death-fundamentals.html)
+
+### Design Document
+
 - [Writing a GDD your team can actually use](http://www.gamasutra.com/blogs/AbbyFriesen/20141006/227048/Writing_a_GDD_your_team_can_actually_use.php)
-- Game Value - http://gamasutra.com/blogs/ChristopherGile/20141028/228732/What_does_a_game_value.php
+- [Battle of Brothers: Bit About Design Documents](http://battleofbrothers.com/sirryan/a-bit-about-design-documents)
 
 ### Art Concepts
 
@@ -70,20 +73,13 @@ Game Design Documents
 
 - [PathFindingJS](http://qiao.github.io/PathFinding.js/visual/)
 
-### Gameplays
-
-- [Patapon](https://www.youtube.com/watch?v=lp173Si-XZM)
-- [Depression Quest](http://www.depressionquest.com/)
-- [SpacePi](http://2012.js13kgames.com/entries/spacepi)
-- [Radius Raid](http://2013.js13kgames.com/entries/radius-raid)
-- [Hack n Slash](http://store.steampowered.com/app/246070/)
-- [Spider Busters](http://js13kgames.com/entries/spider-busters)
-
 ### Character Creation
 
 - [Introduction to user personas](http://www.ux-lady.com/introduction-to-user-personas/)
 
 ### Programming
 
+- [Game Programming Patterns Book](http://gameprogrammingpatterns.com/)
 - [Coding Game](http://www.codingame.com/)
 - [WebGL Workshop](https://github.com/stackgl/webgl-workshop)
+- [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
