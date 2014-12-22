@@ -30,6 +30,7 @@ Game Design Documents
 ### Design Document
 
 - [Writing a GDD your team can actually use](http://www.gamasutra.com/blogs/AbbyFriesen/20141006/227048/Writing_a_GDD_your_team_can_actually_use.php)
+- [List of Game Design Documents of Old Games](http://www.gamepitches.com/game-designs/)
 - [Battle of Brothers: Bit About Design Documents](http://battleofbrothers.com/sirryan/a-bit-about-design-documents)
 
 ### Art Concepts
