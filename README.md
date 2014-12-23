@@ -13,6 +13,7 @@ Game Design Documents
 - [Game Design Deep Dive: The digging mechanic in SteamWorld Dig](http://www.gamasutra.com/view/news/225257/Game_Design_Deep_Dive_The_digging_mechanic_in_SteamWorld_Dig.php)
 - [What Does a Game Value](http://gamasutra.com/blogs/ChristopherGile/20141028/228732/What_does_a_game_value.php)
 - [All Games Are About Death](http://www.whatgamesare.com/2011/05/all-games-are-about-death-fundamentals.html)
+- [20 Ways to Make Money Making Games](http://rampantgames.com/blog/?p=8257)
 
 ### Interviews
 
