@@ -87,5 +87,7 @@ Game Design Documents
 ### Great Developers
 
 - [Kris Piotrowski](http://kris.piotrowski.usesthis.com/)
+- [Richard Lemarchand](http://www.richardlemarchand.com/)
+- [Eric Zimmerman](http://ericzimmerman.com/)
 - [Lucas Pope](http://dukope.com/)
 - [Darren Korb](https://twitter.com/darrenkorb)
