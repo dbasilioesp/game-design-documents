@@ -83,3 +83,8 @@ Game Design Documents
 ### Character Creation
 
 - [Introduction to user personas](http://www.ux-lady.com/introduction-to-user-personas/)
+
+### Great Developers
+
+- [Kris Piotrowski](http://kris.piotrowski.usesthis.com/)
+- [Lucas Pope](http://dukope.com/)
