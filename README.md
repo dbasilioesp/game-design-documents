@@ -88,3 +88,4 @@ Game Design Documents
 
 - [Kris Piotrowski](http://kris.piotrowski.usesthis.com/)
 - [Lucas Pope](http://dukope.com/)
+- [Darren Korb](https://twitter.com/darrenkorb)
