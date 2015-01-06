@@ -79,6 +79,7 @@ Game Design Documents
 ### Inteligence Artificial
 
 - [PathFindingJS](http://qiao.github.io/PathFinding.js/visual/)
+- [AI Books](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
 ### Character Creation
 
