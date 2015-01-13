@@ -3,6 +3,7 @@ Game Design Documents
 
 ### Game Design Thoughts
 
+- [Top 5 Design Debates](http://www.lostgarden.com/2014/12/top-5-design-debates-i-ignored-in-2014.html)
 - The Seven Constants Of Game Design: [Part 1](http://techcrunch.com/2014/07/20/constants-of-game-design-1/), [Part 2](http://techcrunch.com/2014/07/27/constants-of-game-design-2/), [Part 3](http://techcrunch.com/2014/08/03/constants-of-game-design-3/)  
 - [Level design lesson: to the right, hold on tight](http://auntiepixelante.com/?p=465)  
 - [Game Star Mechanic](http://gamestarmechanic.com/)
