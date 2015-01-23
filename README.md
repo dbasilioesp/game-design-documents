@@ -69,6 +69,10 @@ Game Design Documents
 - [Kenney Donation](http://kenney.itch.io/kenney-donation)
 - [Yobi3D](http://www.yobi3d.com/)
 
+### Tools
+
+- [Game Jam Tools](http://invrse.co/game-jam-tools/)
+
 ### Web Animations
 
 - [A beginners introduction to css animation](http://webdesign.tutsplus.com/tutorials/a-beginners-introduction-to-css-animation--cms-21068)
