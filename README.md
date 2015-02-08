@@ -47,6 +47,7 @@ Game Design Documents
 
 - [World of Level Design](http://www.worldofleveldesign.com/)
 - http://www.thiagoklafke.com/
+- [The Visual Guide to Multiplayer Level Design](http://www.gamasutra.com/blogs/BobbyRoss/20140720/221342/The_Visual_Guide_to_Multiplayer_Level_Design.php)
 
 ### Audio
 
