@@ -98,3 +98,7 @@ Game Design Documents
 - [Eric Zimmerman](http://ericzimmerman.com/)
 - [Lucas Pope](http://dukope.com/)
 - [Darren Korb](https://twitter.com/darrenkorb)
+
+### Blogs
+
+- [Devaneios Digitais Interativos](https://mbg3dmind.wordpress.com/)
