@@ -102,3 +102,4 @@ Game Design Documents
 ### Blogs
 
 - [Devaneios Digitais Interativos](https://mbg3dmind.wordpress.com/)
+- [Design a Game](http://designagame.eu/)
