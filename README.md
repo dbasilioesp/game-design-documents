@@ -56,7 +56,7 @@ Game Design Documents
 - [Conheça como são feitos os efeitos sonoros de The Evil Within](http://www.gamegen.com.br/playstation3/conheca-como-sao-feitos-os-efeitos-sonoros-de-the-evil-within/)
 - [Indie Game Composer What Affects Cost](http://www.chrislines.net/indie-game-composer-what-affects-cost/)
 - [Game Composer Contracts Structure](http://www.chrislines.net/game-composer-contracts-structure/)
-
+- [Processo de dublagem no Brasil](http://jogos.uol.com.br/ultimas-noticias/2015/02/10/dublar-um-game-pode-custar-ate-r-500-mil-saiba-como-funciona-o-processo.htm)
 ### Physics
 
 - [Game Feel Tips: Speed, Gravity and Friction](http://gamasutra.com/blogs/MarkVenturelli/20140821/223866/Game_Feel_Tips_II_Speed_Gravity_Friction.php)
