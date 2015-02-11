@@ -64,6 +64,10 @@ Game Design Documents
 - [Algodoo](http://www.algodoo.com/)
 - [iamralpht physics simulation](http://iamralpht.github.io/physics/)
 
+### Math
+
+- [Wolframalpha](http://www.wolframalpha.com/)
+
 ### Assets & 3D Models
 
 - [Open Game Art](http://opengameart.org/users/kenney)
