@@ -22,6 +22,7 @@ Game Design Documents
 - [Amy Hennig: Behind the classics legacy of kain soul reaver](http://blog.eu.playstation.com/2012/10/12/behind-the-classics-legacy-of-kain-soul-reaver/)
 - [Darren Korb: Transistor Sound](http://categoryvideogames.podbean.com/e/an-interview-with-darren-korb-transistor/#.U-u6K-Efcrk.twitter)
 - [Quantum - Eric Zimmerman](http://whowhatwhycast.tumblr.com/post/98948890244/s9-e01-a-recipe-for-a-distilled-4x-experience)
+- [The Making of Grim Fandango](https://www.youtube.com/watch?v=JNhE7zxJymE&feature=youtu.be)
 
 ### Programming
 
