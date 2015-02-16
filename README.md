@@ -15,6 +15,7 @@ Game Design Documents
 - [What Does a Game Value](http://gamasutra.com/blogs/ChristopherGile/20141028/228732/What_does_a_game_value.php)
 - [All Games Are About Death](http://www.whatgamesare.com/2011/05/all-games-are-about-death-fundamentals.html)
 - [20 Ways to Make Money Making Games](http://rampantgames.com/blog/?p=8257)
+- [This is your brain on horror](http://www.pcauthority.com.au/Feature/400544,this-is-your-brain-on-horror.aspx)
 
 ### Interviews
 
