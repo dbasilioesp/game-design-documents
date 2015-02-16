@@ -57,6 +57,7 @@ Game Design Documents
 - [Indie Game Composer What Affects Cost](http://www.chrislines.net/indie-game-composer-what-affects-cost/)
 - [Game Composer Contracts Structure](http://www.chrislines.net/game-composer-contracts-structure/)
 - [Processo de dublagem no Brasil](http://jogos.uol.com.br/ultimas-noticias/2015/02/10/dublar-um-game-pode-custar-ate-r-500-mil-saiba-como-funciona-o-processo.htm)
+
 ### Physics
 
 - [Game Feel Tips: Speed, Gravity and Friction](http://gamasutra.com/blogs/MarkVenturelli/20140821/223866/Game_Feel_Tips_II_Speed_Gravity_Friction.php)
@@ -77,6 +78,16 @@ Game Design Documents
 ### Tools
 
 - [Game Jam Tools](http://invrse.co/game-jam-tools/)
+
+#### Audio
+
+- [Reaper (No-Free)](http://www.reaper.fm/)
+- [Logic Pro](https://www.apple.com/logic-pro/)
+- [Pro Tools](http://www.avid.com/BR/products/pro-tools-software)
+- [Ableton](https://www.ableton.com/)
+- [Cubase](http://www.steinberg.net/en/products/cubase/start.html)
+- [FL Studio](http://www.image-line.com/flstudio/)
+- [Bitwig](https://www.bitwig.com/en/home/recent-news.html)
 
 ### Web Animations
 
