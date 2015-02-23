@@ -16,6 +16,7 @@ Game Design Documents
 - [All Games Are About Death](http://www.whatgamesare.com/2011/05/all-games-are-about-death-fundamentals.html)
 - [20 Ways to Make Money Making Games](http://rampantgames.com/blog/?p=8257)
 - [This is your brain on horror](http://www.pcauthority.com.au/Feature/400544,this-is-your-brain-on-horror.aspx)
+- [Game Resource](https://docs.google.com/spreadsheets/d/1o9VvQ2CqXXktuE1diTuM1ZBE79LxW1t3GKD3tdgt6xw/htmlview?usp=sharing&sle=true#)
 
 ### Interviews
 
