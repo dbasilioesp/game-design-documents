@@ -17,6 +17,8 @@ Game Design Documents
 - [20 Ways to Make Money Making Games](http://rampantgames.com/blog/?p=8257)
 - [This is your brain on horror](http://www.pcauthority.com.au/Feature/400544,this-is-your-brain-on-horror.aspx)
 - [Game Resource](https://docs.google.com/spreadsheets/d/1o9VvQ2CqXXktuE1diTuM1ZBE79LxW1t3GKD3tdgt6xw/htmlview?usp=sharing&sle=true#)
+- [Why Plants vs Zombies 2 Can't Make It To the Top](http://www.gamasutra.com/blogs/MichailKatkoff/20131011/202212/Why_Plants_vs_Zombies_2_Cant_Make_It_To_the_Top.php)
+- [The recipe for Candy Crush Saga luck skill and puzzles](http://www.gamasutra.com/blogs/HeatherStark/20131003/201559/The_recipe_for_Candy_Crush_Saga_luck_skill_and_puzzles.php)
 
 ### Interviews
 
