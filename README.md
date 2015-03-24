@@ -103,6 +103,7 @@ Game Design Documents
 - [Mr Doob](http://mrdoob.com/)
 - [A Triangle Everyday](http://winkervsbecks.github.io/a-triangle-everyday/)
 - [lining.js](https://github.com/zmmbreeze/lining.js)
+- [12 Principles of Animation](https://vimeo.com/93206523)
 
 ### Inteligence Artificial
 
