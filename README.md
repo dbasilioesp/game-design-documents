@@ -127,3 +127,9 @@ Game Design Documents
 
 - [Devaneios Digitais Interativos](https://mbg3dmind.wordpress.com/)
 - [Design a Game](http://designagame.eu/)
+ 
+
+### Future
+
+- [Peering through the webrtc fog with socketpeer](https://hacks.mozilla.org/2015/04/peering-through-the-webrtc-fog-with-socketpeer/)
+
