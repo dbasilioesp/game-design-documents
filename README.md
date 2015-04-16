@@ -20,6 +20,7 @@ Game Design Documents
 - [Why Plants vs Zombies 2 Can't Make It To the Top](http://www.gamasutra.com/blogs/MichailKatkoff/20131011/202212/Why_Plants_vs_Zombies_2_Cant_Make_It_To_the_Top.php)
 - [The recipe for Candy Crush Saga luck skill and puzzles](http://www.gamasutra.com/blogs/HeatherStark/20131003/201559/The_recipe_for_Candy_Crush_Saga_luck_skill_and_puzzles.php)
 - [8 Kinds of Fun](http://8kindsoffun.com/)
+- [The Key Design Elements of Roguelikes](http://gamedevelopment.tutsplus.com/articles/the-key-design-elements-of-roguelikes--cms-23510)
 
 ### Interviews
 
