@@ -34,6 +34,7 @@ Game Design Documents
 - [Game Programming Patterns Book](http://gameprogrammingpatterns.com/)
 - [Coding Game](http://www.codingame.com/)
 - [WebGL Workshop](https://github.com/stackgl/webgl-workshop)
+- [Introduction to 3D Computer Graphics](https://www.youtube.com/watch?v=zxQjlIViRBE&feature=youtu.be)
 - [Begginers Guide to Object Orientation Programming](http://gamedevelopment.tutsplus.com/series/beginners-guide-to-oop--gamedev-12703)
 
 ### Design Document
